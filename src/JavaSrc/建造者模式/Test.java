@@ -5,11 +5,14 @@ public class Test {
 
         System.out.println(getStudent());
 
+        Teacher teacher = new Teacher().setAge(26).setName("张三");
+        System.out.println(teacher.toString());
+
     }
 
     private static Student getStudent() {
         return new Student.StudentBuilder(1,"xiaoming")
-                .setAge(125)
+                .setAge(18)
                 .setGender(3)
                 .build();
     }
