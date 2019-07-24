@@ -1,4 +1,4 @@
-package JavaSrc.建造者模式;
+package JavaSrc.建造者模式.简单实例一;
 
 public class Student {
     private final int stuId;  //必须

@@ -1,4 +1,4 @@
-package JavaSrc.建造者模式;
+package JavaSrc.建造者模式.简单实例一;
 
 public class Test {
     public static void main(String[] args) {
