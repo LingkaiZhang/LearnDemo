@@ -1,5 +1,9 @@
 package JavaSrc.数据算法;
 
+/**
+ * 冒泡排序
+ */
+
 public class BubbleSort {
     public static void main(String[] args) {
         int[] a = {20, 40, 30, 10, 60, 50};
